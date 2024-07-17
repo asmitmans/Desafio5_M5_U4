@@ -31,5 +31,5 @@ INSERT INTO proveedores (nombre, rut, direccion, correo, telefono, contacto, tel
   
   
 **Configuracion BD**  
-[https://github.com/asmitmans/Prueba_M5/blob/main/src/main/java/cl/fullstackjava/model/conexion/Conexion.java](https://github.com/asmitmans/Prueba_M5/blob/main/src/main/java/cl/fullstackjava/model/conexion/Conexion.java)  
+[https://github.com/asmitmans/Desafio5_M5_U4/blob/main/src/main/java/cl/fullstackjava/model/conexion/Conexion.java](https://github.com/asmitmans/Desafio5_M5_U4/blob/main/src/main/java/cl/fullstackjava/model/conexion/Conexion.java)  
 
